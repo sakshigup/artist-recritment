@@ -1,1 +1,1 @@
-# artist-recritment
+# artist-recruitment
